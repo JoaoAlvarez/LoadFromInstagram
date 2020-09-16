@@ -1,5 +1,5 @@
 # LoagFromInstagram <br/>
-Carregar fotos do instagram requerido
+Carregar as ultimas 24 fotos do instagram requerido
 
 - Requerido puppeteer <br/>
 Basta rodar : ```npm install puppeteer```
@@ -13,6 +13,19 @@ teste = async () => {
   console.log("Result", result)
 }
 teste();
+```
+<br/>
+* Exemplo de retorno: <br/>
+```
+{<br/>
+  perfil: URL_DA_FOTO_DO_PERFIL,<br/>
+  posts: [<br/>
+    {<br/>
+      href: URL_DA_POSTAGEM,<br/>
+      src: SRC_DA_IMAGEM_NO_POST<br/>
+    }<br/>
+   ]<br/>
+}<br/>
 ```
 
 
