@@ -1,6 +1,4 @@
-
 /package-lock.json
-
 
 ### Node ###
 # Logs
@@ -19,5 +17,3 @@ node_modules
 .node_repl_history
 /.idea
 
-/dist
-/.tmp
