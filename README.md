@@ -1,4 +1,4 @@
-# LoagFromInstagram <br/>
+# LoadFromInstagram <br/>
 Carregar as ultimas 24 fotos do instagram requerido
 
 - Requerido puppeteer <br/>
