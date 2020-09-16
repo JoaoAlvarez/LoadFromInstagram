@@ -16,16 +16,15 @@ teste();
 ```
 <br/>
 * Exemplo de retorno: <br/>
-```
-{<br/>
-  perfil: URL_DA_FOTO_DO_PERFIL,<br/>
-  posts: [<br/>
-    {<br/>
-      href: URL_DA_POSTAGEM,<br/>
-      src: SRC_DA_IMAGEM_NO_POST<br/>
-    }<br/>
-   ]<br/>
-}<br/>
-```
+{
+  perfil: URL_DA_FOTO_DO_PERFIL,
+  posts: [
+    {
+      href: URL_DA_POSTAGEM,
+      src: SRC_DA_IMAGEM_NO_POST
+    }
+   ]
+}
+
 
 
